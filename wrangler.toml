@@ -1,0 +1,8 @@
+name = "blackroad-agents-api"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "blackroad-continuity"
+database_id = "f0721506-cb52-41ee-b587-38f7b42b97d9"
